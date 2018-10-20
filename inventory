@@ -1,0 +1,6 @@
+[webservers]
+client1
+client2
+
+[lbserver]
+client3

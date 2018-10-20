@@ -1,0 +1,7 @@
+---
+- name: Configure Load Balanced Web Server's
+  hosts: all
+  become: yes
+  user: ansible
+  roles:
+    - role: parallel

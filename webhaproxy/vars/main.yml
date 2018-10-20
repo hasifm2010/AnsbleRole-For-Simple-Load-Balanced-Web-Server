@@ -1,0 +1,13 @@
+---
+# vars file for parallel
+
+
+
+web_packages:
+  - httpd
+  - mod_ssl
+
+fw_packages: firewalld
+lb_packages: haproxy
+
+

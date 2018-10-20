@@ -1,0 +1,6 @@
+---
+# defaults file for parallel
+
+
+web_ip1: 192.168.122.31
+web_ip2: 192.168.122.32

@@ -4,4 +4,4 @@
   become: yes
   user: ansible
   roles:
-    - role: parallel
+    - role: webhaproxy
